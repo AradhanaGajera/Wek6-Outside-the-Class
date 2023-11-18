@@ -1,0 +1,304 @@
+* {
+    box-sizing: border-box;
+
+}
+
+.nav {
+    color: white;
+    padding: 5px 8px;
+    text-decoration: none;
+    font-size: 20px;
+    overflow: hidden;
+    text-align: left;
+
+}
+
+.cls1 {
+    padding: 200px 300px;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-position: 50%;
+    background-image: url('20190207_RL50_handbag_lp_c01_hero.jpg');
+
+
+}
+
+.cls2 {
+
+    color: white;
+    font-size: 30px;
+    padding: 30px;
+    ;
+
+
+
+
+}
+
+.cls2 h1 {
+    margin: 0;
+    font-family: Playfair Display, serif;
+}
+
+.btn1 {
+    font-size: 20px;
+    background-color: antiquewhite;
+    color: black;
+    padding: 10px 20px;
+    text-decoration: none;
+    cursor: pointer;
+
+
+}
+
+.dflex {
+    display: flex;
+    flex-wrap: wrap;
+
+}
+
+.F-33 {
+    flex: 33.33%;
+
+
+}
+
+.f-33_3 {
+    background-color: #dec79b;
+    font-size: 20px;
+    padding: 200px 40px;
+    line-height: 0.9;
+
+
+}
+
+.f-33_2 {
+    background-image: url(2ndgirl.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+
+}
+
+.f-33_1 {
+    background-color: #b9b9b9;
+    padding-left: 80px;
+    display: flex;
+    align-items: center;
+    font-size: 24px;
+    line-height: 1.5;
+}
+
+.f-33_6 {
+
+    background-color: #18181e;
+    font-size: 16px;
+    display: flex;
+    align-items: center;
+    padding-left: 82px;
+    height: 597px;
+    font-family: open sans;
+    color: white;
+}
+
+.F-33_5 {
+    background-image: url(600x6001.jpg);
+    display: flex;
+    height: 298px;
+
+}
+
+.F-33_51 {
+    background-image: url(600x6003.jpg);
+    display: flex;
+    height: 298px;
+
+}
+
+.F-33_4 {
+    background-image: url(600x6002.jpg);
+    display: flex;
+    height: 298px;
+}
+
+.F-33_41 {
+    background-image: url(600x6004.jpg);
+    display: flex;
+    height: 298px;
+}
+
+.f-50_1 {
+    flex: 50%;
+}
+
+.f-50-1 {
+    background-color: #18181e;
+    height: 900;
+    margin: 0;
+    font-size: 20px;
+    color: #ffffff;
+
+}
+
+.f-50-2 {
+    padding-left: 80px;
+    padding-top: 100px;
+    padding-bottom: 100px;
+
+
+}
+
+.f-50-3 {
+
+    height: 50%;
+
+}
+
+.f-50-4 {
+
+    background-color: #dec79b;
+    color: rgb(0, 0, 0);
+    font-size: 24px;
+    margin: 0;
+    height: 450px;
+    padding-top: 260px;
+    padding-left: 20px;
+
+
+}
+
+.btn2 {
+    font-size: px;
+    background-color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
+    padding: 5px 30px;
+    text-decoration: none;
+    cursor: pointer;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+
+
+}
+
+.fle1 {
+   display: flex;
+    flex: 50%;
+    flex-wrap: wrap;
+
+}
+
+.bg1 {
+    background-image: url(bg1.jpg);
+    height: 850px;
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+.bgb1 {
+    background-color: #c6c4c5;
+    color: black;
+    padding-right: 35px;
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    line-height: 0.9;
+    font-size: 30px;
+    height: 425px;
+    text-align: right;
+}
+
+.bgb3 {
+    background-image: url(whitedresgril.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+.fle2 {
+    height: 425px;
+
+}
+
+.f-25 {
+    flex: 25%;
+
+}
+
+.img01 {
+    background-image: url(firstgril.jpg);
+    background-repeat: no-repeat;
+    height: 500px;
+}
+
+.img02 {
+    background-image: url(sndgirl.jpg);
+    background-repeat: no-repeat;
+    height: 500px;
+
+}
+
+.img03 {
+    background-image: url(thirdgril.jpg);
+    background-repeat: no-repeat;
+    height: 500px;
+
+
+}
+
+.img04 {
+    background-image: url(fourthgril.jpg);
+    background-repeat: no-repeat;
+    height: 500px;
+
+}
+
+.last1 {
+    background-color: #18181e;
+    display: flex;
+    justify-content: center;
+    
+}
+
+.last{
+    background-color: #18181e;
+    height: 400px;
+    font-size: 27px;
+    color: white;
+    padding: 0 0 0 20px;
+    width: 400px;
+}
+.last{
+    background-color: #18181e;
+    height: 400px;
+    font-size: 27px;
+    color: white;
+    padding: 0 0 0 20px;
+    width: 500px;
+}
+.lasrbtn{
+    border: 2px solid #ffffff;
+    padding: 10px 200px 10px 10px;
+    background-color: #18181e;
+    color: #ffffff;
+    
+
+}
+.lasrbtn1{
+    border: 2px solid #ffffff;
+    padding: 10px 200px 100px 10px;
+    background-color: #18181e;
+    color: #ffffff;
+}
+.flex-container {
+    display: flex;
+    justify-content: center;
+    background-color: DodgerBlue;
+}
+.footer{
+    background-color:#333333;
+    padding: 20px;
+    text-align: center;
+    text-decoration: none;
+    color: white;
+  
+    
+}
